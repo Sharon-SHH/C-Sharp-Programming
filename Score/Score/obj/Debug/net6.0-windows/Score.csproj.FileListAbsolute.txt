@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\bin\Debug\net6.0-windows\Score.exe
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\bin\Debug\net6.0-windows\Score.deps.json
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\bin\Debug\net6.0-windows\Score.runtimeconfig.json
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\bin\Debug\net6.0-windows\Score.dll
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\bin\Debug\net6.0-windows\Score.pdb
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.Form1.resources
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.csproj.GenerateResource.cache
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.AssemblyInfo.cs
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.dll
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\refint\Score.dll
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.pdb
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\Score.genruntimeconfig.cache
+C:\Users\User\Documents\Projects_Learning\C#\C-Sharp-Programming\Score\Score\obj\Debug\net6.0-windows\ref\Score.dll
